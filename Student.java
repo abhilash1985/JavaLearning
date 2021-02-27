@@ -10,6 +10,7 @@ class Student {
 		college = "MGEIT";
 	}
 
+    // constructor without modifier
 	Student(int r, String n) {
 		rollno = r;
 		name = n;

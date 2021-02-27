@@ -1,6 +1,8 @@
 // FirstClass.java
 
 public class FirstClass {
+	String color = "black";
+
 	public static void main(String[] args) {
 		// Default Constructor
 		FirstClass f1 = new FirstClass();

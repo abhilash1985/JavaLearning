@@ -13,7 +13,7 @@ class ConstructorInheritance extends Constructor {
 	}
 
 	public static void main(String[] args) {
-		ConstructorInheritance e1 = new ConstructorInheritance("MNC", 45000);
+		ConstructorInheritance e1 = new ConstructorInheritance("MNC", 45000f);
         e1.display();
 	}
 }

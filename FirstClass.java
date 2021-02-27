@@ -2,6 +2,7 @@
 
 public class FirstClass {
 	public static void main(String[] args) {
+		// Default Constructor
 		FirstClass f1 = new FirstClass();
 
 		System.out.println(f1.getWeight()); // returns 0

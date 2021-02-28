@@ -1,7 +1,7 @@
 // PredicateExamplePredicates.java
 
-import java.util.*;
-import java.util.function.*;
+import java.util.list;
+import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
 class PredicateExamplePredicates {
